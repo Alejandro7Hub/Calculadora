@@ -53,7 +53,7 @@ public class Principal {
 		System.out.println("4.division");
 		System.out.println("5.potenciacion");
 		System.out.println("6.Raiz");
-		System.out.println("0.salir xd");
+		System.out.println("0.salir");
 		
 	}
 
