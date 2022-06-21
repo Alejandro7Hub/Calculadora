@@ -33,7 +33,7 @@ public class Principal {
 				objeto.potenciacion(a, b);
 				break;
 			case 6:
-				objeto.raiz(a, b);
+				objeto.raizz(a, b);
 				break;
 			case 0:
 				System.out.println("Fin Programa");

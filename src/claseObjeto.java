@@ -44,7 +44,7 @@ public void potenciacion(double a, double b) {
 	System.out.println("La potencia de estos números es: "+Math. pow(a,b));
 	Math. pow(a,b);
 }
-public void raiz(double a, double b) {
+public void raizz(double a, double b) {
 	System.out.println("La raiz de a: "+Math.sqrt(a));
 	System.out.println("La raiz de b: "+Math.sqrt(b));
 }
